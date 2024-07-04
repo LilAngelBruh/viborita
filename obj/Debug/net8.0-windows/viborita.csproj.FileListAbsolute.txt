@@ -1,0 +1,14 @@
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\viborita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\viborita.AssemblyInfoInputs.cache
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\viborita.AssemblyInfo.cs
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\viborita.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\bin\Debug\net8.0-windows\viborita.exe
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\bin\Debug\net8.0-windows\viborita.deps.json
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\bin\Debug\net8.0-windows\viborita.runtimeconfig.json
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\bin\Debug\net8.0-windows\viborita.dll
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\bin\Debug\net8.0-windows\viborita.pdb
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\viborita.dll
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\refint\viborita.dll
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\viborita.pdb
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\viborita.genruntimeconfig.cache
+C:\Users\Angel\OneDrive\Imágenes\Escritorio\viborita\obj\Debug\net8.0-windows\ref\viborita.dll
